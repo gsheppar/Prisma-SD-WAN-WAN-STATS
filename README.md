@@ -5,7 +5,7 @@ The purpose of this script is to retrieve WAN statistics for all circuits during
 MIT
 
 #### Requirements
-* Active CloudGenix Account - Please generate your API token and add it to cloudgenix_settings.py
+* Active Prisma SD-WAN Account - Please generate your API key and add it to prismasase_settings.py
 * Python >=3.7
 
 #### Installation:
